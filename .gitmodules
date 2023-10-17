@@ -1,0 +1,16 @@
+[submodule "example-service-4"]
+	path = example-service-4
+	url = https://github.com/omermishania/example-service-4
+	branch = old-architecture
+[submodule "example-service-3"]
+	path = example-service-3
+	url = https://github.com/omermishania/example-service-3
+	branch = old-architecture
+[submodule "example-service-2"]
+	path = example-service-2
+	url = https://github.com/omermishania/example-service-2
+	branch = old-architecture
+[submodule "example-service-1"]
+	path = example-service-1
+	url = https://github.com/omermishania/example-service-1
+	branch = old-architecture
