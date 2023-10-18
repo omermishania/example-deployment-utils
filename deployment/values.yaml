@@ -1,6 +1,6 @@
 global:
   appName: test
-
+  pullSecret: ghcr-login-secret
 example-services:
   example_service_1:
     replicaCount: 1
