@@ -1,2 +1,31 @@
 global:
   appName: test
+
+example-services:
+  example_service_1:
+    replicaCount: 1
+    appName: example-service-1
+    image:
+      repository: ghcr.io/omermishania/example-service-1
+      tag: main
+
+  example_service_2:
+    replicaCount: 1
+    appName: example-service-2
+    image:
+      repository: ghcr.io/omermishania/example-service-2
+      tag: main
+
+  example_service_3:
+    replicaCount: 1
+    appName: example-service-3
+    image:
+      repository: ghcr.io/omermishania/example-service-3
+      tag: main
+
+  example_service_4:
+    replicaCount: 1
+    appName: example-service-4
+    image:
+      repository: ghcr.io/omermishania/example-service-4
+      tag: main
